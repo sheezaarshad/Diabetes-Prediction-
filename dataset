@@ -1,0 +1,5 @@
+## Dataset  
+The dataset used for training and predictions is available on Kaggle:  
+[Diabetes Prediction Dataset](https://www.kaggle.com/code/paultimothymooney/predict-diabetes-from-medical-records)  
+
+To use this dataset, download it from Kaggle and place it in your project folder before running `diabetes.py`.
